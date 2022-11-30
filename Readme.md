@@ -2,7 +2,7 @@
 
 MTH208 Numerical Analysis Coursework Project. You can find the problem and my solution. Q1~Q4 are definitely correct. Futher dicussion are welcome. 
 
-Update: This work get 90% marks~ Happy~
+Update: This work get 90% marks.
 
 
 # Hints
